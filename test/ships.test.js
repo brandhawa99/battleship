@@ -1,0 +1,2 @@
+import shipFactory from ('../ships')
+
