@@ -136,6 +136,25 @@ const gameBoard = () =>{
 }
 
 
+const player = (compBoard) =>{
+  const comp = compBoard; 
+  const myBoard = gameBoard(); 
+
+  const turn = () =>{
+      comp.recieveAttack({})
+  }
+  
+}
+
+
+const mainLoop = () =>{
+  const myBoard = gameBoard(); 
+  const compBoard = gameBoard();
+
+
+}
+
+
 
 
 
